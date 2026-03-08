@@ -10,9 +10,10 @@ The goal of this project is to analyze sales data from the Northwind dataset usi
 ### Tools Used
 - Microsoft Excel
 - XLOOKUP
-- SUMIFS / COUNTIFS
+- SUMIFS / COUNTIFS / AVERAGEIF
 - IF
 - Conditional Formatting
+- Pivot table
 
 ---
 
@@ -79,6 +80,7 @@ This allowed comparison of sales performance across different countries.
 ## Conclusion
 
 By implementing a Price Reconciliation layer, I've shown how Excel can be used as an audit tool to identify financial discrepancies. The analysis of Discount Leakage and Revenue Categorization provides actionable insights for sales teams to optimize pricing strategies and minimize margin erosion.
+
 
 
 
