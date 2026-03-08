@@ -43,6 +43,11 @@ Conditional formatting was used to highlight orders with mismatch.
 
 Also added a column delivery to show if вelivery зerformance was fast or slow
 
+**Created Data Validation Sheet** 
+-Copied unit_id and product_price
+-Created pivot table with max price on each product
+This table is a basic price list for products
+
 ---
 
 ## 3. Data Analysis
@@ -71,6 +76,7 @@ This allowed comparison of sales performance across different countries.
 ## Conclusion
 
 By implementing a Price Reconciliation layer, I've shown how Excel can be used as an audit tool to identify financial discrepancies. The analysis of Discount Leakage and Revenue Categorization provides actionable insights for sales teams to optimize pricing strategies and minimize margin erosion.
+
 
 
 
