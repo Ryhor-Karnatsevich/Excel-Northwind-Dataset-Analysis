@@ -75,11 +75,14 @@ Table showing volume of orders with price match/mismatch
 
 This allowed comparison of sales performance across different countries.
 
+![table](table.png)
+
 ---
 
 ## Conclusion
 
 By implementing a Price Reconciliation layer, I've shown how Excel can be used as an audit tool to identify financial discrepancies. The analysis of Discount Leakage and Revenue Categorization provides actionable insights for sales teams to optimize pricing strategies and minimize margin erosion.
+
 
 
 
