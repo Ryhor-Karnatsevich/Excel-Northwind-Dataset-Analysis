@@ -6,7 +6,17 @@ Dataset Source:
 https://www.kaggle.com/datasets/ayoubcherguelaine/company-documents-dataset
 
 ##  Project Overview
-The goal of this project is to analyze sales data from the Northwind dataset using Excel formulas and basic business metrics.
+The goal of this project was to transform raw relational data into a financial auditing and sales performance tool. By leveraging advanced Excel functions, I built a system to reconcile pricing, identify revenue leakages, and segment customers. This project demonstrates how Excel can be used not just for reporting, but as a control layer to ensure price consistency and margin protection across international markets.
+
+Key Objectives:
+
+Data Integration: Consolidating multi-table data using XLOOKUP and INDEX/MATCH to create a unified analysis master-sheet.
+
+Financial Audit: Implementing a Price Reconciliation layer to detect discrepancies between transaction prices and the master price list.
+
+Performance Metrics: Analyzing "Discount Leakage" and "Delivery Performance" to identify operational bottlenecks.
+
+Strategic Segmentation: Categorizing global revenue streams into High/Medium/Low tiers to prioritize key market regions.
 
 ### Tools Used
 - Microsoft Excel
@@ -83,6 +93,7 @@ This allowed comparison of sales performance across different countries.
 ## Conclusion
 
 By implementing a Price Reconciliation layer, I've shown how Excel can be used as an audit tool to identify financial discrepancies. The analysis of Discount Leakage and Revenue Categorization provides actionable insights for sales teams to optimize pricing strategies and minimize margin erosion.
+
 
 
 
