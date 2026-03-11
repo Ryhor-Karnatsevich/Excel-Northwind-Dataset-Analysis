@@ -5,6 +5,7 @@ Dataset: Northwind dataset (3308 records)
 Dataset Source:
 https://www.kaggle.com/datasets/ayoubcherguelaine/company-documents-dataset
 
+##  Project Overview
 The goal of this project is to analyze sales data from the Northwind dataset using Excel formulas and basic business metrics.
 
 ### Tools Used
@@ -82,6 +83,7 @@ This allowed comparison of sales performance across different countries.
 ## Conclusion
 
 By implementing a Price Reconciliation layer, I've shown how Excel can be used as an audit tool to identify financial discrepancies. The analysis of Discount Leakage and Revenue Categorization provides actionable insights for sales teams to optimize pricing strategies and minimize margin erosion.
+
 
 
 
